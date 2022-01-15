@@ -1,7 +1,7 @@
 # Convert exported Telegram messages to Markdown journals
 
-Do you have an unruly collection of notes you have sent to yourself as Telegram messages and want to have more control over it and greater privacy?  
-Or do you want to export your message history with someone in such a way that you could edit it easily?  
+Do you have an unruly collection of notes you have sent to yourself as Telegram messages and want to have more control over it and greater privacy?
+Or do you want to export your message history with someone in such a way that you could edit it easily?
 This script may be useful.
 
 It takes a JSON record of your Telegram message history along with all the attachments as input.
